@@ -1,0 +1,3 @@
+source /etc/profile
+source ~/.bash_profile
+source /Users/MomSweetMom/miniconda3/envs/open-cv/bin/activate

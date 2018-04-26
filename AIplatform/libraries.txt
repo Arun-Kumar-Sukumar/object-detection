@@ -1,0 +1,13 @@
+pip install gensim
+pip install python-docx
+pip install pdfminer.six
+pip install SpeechRecognition
+pip install langdetect
+pip install googletrans
+pip install pyttsx3
+pip install playsound
+pip install pyobjc
+xcode-select --install
+brew remove portaudio
+brew install portaudio
+pip3 install pyaudio
