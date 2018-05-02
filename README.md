@@ -22,7 +22,7 @@ Song Y, Guadarrama S, Murphy K, CVPR 2017
 https://scholar.googleusercontent.com/scholar.bib?q=info:l291WsrB-hQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWUIIlnPZ_L9jxvPwcC49kDlELtaeIyU-&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)\]
 
 
-## Installation:
+## Installation
 
   * <a href='g3doc/installation.md'>Object Detection</a><br>
   * <a href='AIplatform/libraries.txt'>
