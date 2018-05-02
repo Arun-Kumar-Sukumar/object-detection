@@ -30,11 +30,12 @@ https://scholar.googleusercontent.com/scholar.bib?q=info:l291WsrB-hQJ:scholar.go
 
 ## Running single example
 
-Go to notebook <a href='object_detection.py'>object_detection.py</a> to test some image object first, then <a href='object_detection_webcam.py'>object_detection_webcam.py</a> to test with the camera. For the full program, go to <a href='AI-platform.py'>AI-platform.py</a><br>
+Go to <a href='object_detection.py'>object_detection.py</a> to test some image object first, then <a href='object_detection_webcam.py'>object_detection_webcam.py</a> to test with the camera. For the full program, go to <a href='AI-platform.py'>AI-platform.py</a><br>
 
 Running simply in the `anaconda` with `python <file.py>` or in an IDE such as Spider or Pycharm for better management of coding environment.
 
 
-<b>Thanks to contributors</b>: Jonathan Huang, Vivek Rathod, Derek Chow,
+## Thanks to contributors
+Jonathan Huang, Vivek Rathod, Derek Chow,
 Chen Sun, Menglong Zhu, Matthew Tang, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Jasper Uijlings,
 Viacheslav Kovalevskyi, Kevin Murphy
